@@ -32,8 +32,8 @@ if "1" in y:
                             |_|                    \033[1;m''')
 	print('\n\033[1;36mCreator: Mrva (@_mrvic_)\n\033[1;m')	
 	print('''\033[1;91mOptions:
-	[1] Random spam
-	[2] Create your spam\033[1;m''')
+[1] Random spam
+[2] Create your spam\033[1;m''')
 	x = input('\033[1;91mSelect an option: \033[1;m')
 	if "1" in x:	
 		time.sleep(1)
@@ -59,8 +59,8 @@ if "2" in y:
                             | |                    
                             |_|                    \033[1;m''')	
 	print('''\033[1;91mOptions:
-	[1] Random spam
-	[2] Create your spam\033[1;m''')
+[1] Random spam
+[2] Create your spam\033[1;m''')
 	x = input('\033[1;91mSelect an option: \033[1;m')
 	if "1" in x:	
 		time.sleep(1)
