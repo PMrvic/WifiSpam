@@ -1,6 +1,6 @@
 # WifiSpam
   Program for Kali Linux for beacon attack                                                                                                                                         
-  Commands after installing: 
+  Commands after installing:                                                                                                                                                       
   -cd WifiSpam -sudo bash ./install.sh
   -sudo python3 wifi_spam.py
   If you use option 2 (Your spam): 
