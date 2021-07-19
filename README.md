@@ -1,6 +1,6 @@
 # WifiSpam
   Program for Kali Linux for beacon attack                                                                                                                                         
-  Commands: 
+  Commands:                                                                                                                                                                        
   -git clone https://github.com/PMrvic/WifiSpam.git                                                                                                                                
   -cd WifiSpam                                                                                                                                                                     
   -sudo bash ./install.sh                                                                                                                                                          
