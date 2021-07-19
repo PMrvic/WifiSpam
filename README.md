@@ -5,6 +5,6 @@
   -cd WifiSpam                                                                                                                                                                     
   -sudo bash ./install.sh                                                                                                                                                          
   -sudo python3 wifi_spam.py                                                                                                                                                       
-  If you use option 2 (Your spam):                                                                                                                                                 
+  If you use option 2 (Create your spam):                                                                                                                                        
   -change the contents of the MySpam.txt file                                                                                                                                       
   -the WifiSpam directory must be on the '/home/kali/' path.                                                                                                                        
